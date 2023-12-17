@@ -1,0 +1,64 @@
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+
+h1 {
+  color :rgb(169, 143, 193) ;
+  font-weight: bold
+}
+h2 {
+  color :rgb(186, 112, 169);
+  font-weight: 200;
+}
+body {
+  font-size: 16px;
+  font-family: sans-serif;
+  color : rgb(55, 46, 63);
+  font-weight: 200;
+  text-align: center;
+}
+a {
+  color :rgb(62, 75, 71);
+}
+p2 {
+  color: rgb(44, 82, 68);
+  font-size: large;
+  font-weight: 200;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+i {
+  color:rgb(104, 98, 110);
+  font-size: 30px;
+}
+.card-white {
+  background-color: white;
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin: 20px 0;
+}
+.image-circle {
+  width: 100px;
+  border-radius: 50%;
+}
+.social-links {
+display: inline;
+}
+.btn-purple {
+  background-color: #53495b;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+}
+.btn-purple:hover{
+  background-color: #19171a;
+}
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
